@@ -1,2 +1,2 @@
 # Subnet Analysis
-🔗https://themiu.github.io/SubnettingAnalysis/
+🔗https://themiu.github.io/SubnetAnalysis/
