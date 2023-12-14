@@ -23,7 +23,7 @@ Here's a preview of the Subnet Analysis and IP Converter tool:
 
 ## Getting Help
 
-If you encounter any issues or have questions, feel free to [open an issue](https://github.com/yourusername/subnet-analysis-ip-converter/issues).
+If you encounter any issues or have questions, feel free to open an issue.
 
 ## Contributing
 
